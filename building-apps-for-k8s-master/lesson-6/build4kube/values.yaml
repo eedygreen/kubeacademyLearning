@@ -1,4 +1,0 @@
-deploy:
-  replicas: 2
-  image:
-    repository: lander2k2/building-apps
